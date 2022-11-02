@@ -34,6 +34,8 @@ This directory contains three sets of footage with prominent world politicians, 
 
 **Source:** Twitter [4]
 
+<br>
+
 ## References
 
 **[1] Jones, T**. (2022, April 14). _Ukraine's Wladimir Klitschko: 'we are prepared for anything'_. dw.com. Retrieved August 11, 2022, from https://www.dw.com/en/ukraines-wladimir-klitschko-we-are-prepared-for-anything/a-61477409 
