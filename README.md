@@ -4,6 +4,8 @@ created by Matyáš Boháček and Hany Farid
 
 This directory contains three sets of footage with prominent world politicians, as described below. For each set, we provide a CSV file with the respective video links. 
 
+<br>
+
 ## World leaders
 
 [URLs list](https://github.com/matyasbohacek/protecting-world-leaders-against-deep-fakes/blob/main/world-leaders.csv) 
