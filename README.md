@@ -6,7 +6,7 @@ This directory contains three sets of footage with prominent world politicians, 
 
 ## World leaders
 
-[URLs list]() 
+[URLs list](https://github.com/matyasbohacek/protecting-world-leaders-against-deep-fakes/blob/main/world-leaders.csv) 
 
 **Total duration:** 57 mins
 
@@ -16,7 +16,7 @@ This directory contains three sets of footage with prominent world politicians, 
 
 ## Real pres. Zelenskyy
 
-[URLs list]() 
+[URLs list](https://github.com/matyasbohacek/protecting-world-leaders-against-deep-fakes/blob/main/zelenskyy-real.csv) 
 
 **Total duration:** 506 mins
 
@@ -26,7 +26,7 @@ This directory contains three sets of footage with prominent world politicians, 
 
 ## In-the-wild deep-fake pres. Zelenskyy
 
-[URLs list]() 
+[URLs list](https://github.com/matyasbohacek/protecting-world-leaders-against-deep-fakes/blob/main/zelenskyy-fake.csv) 
 
 **Total duration:** 1 min
 
