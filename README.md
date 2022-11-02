@@ -36,11 +36,11 @@ This directory contains three sets of footage with prominent world politicians, 
 
 ## References
 
-**[1]**
+**[1] Jones, T**. (2022, April 14). _Ukraine's Wladimir Klitschko: 'we are prepared for anything'_. dw.com. Retrieved August 11, 2022, from https://www.dw.com/en/ukraines-wladimir-klitschko-we-are-prepared-for-anything/a-61477409 
 
-**[2]**
+**[2] YouTube**. (n.d.). YouTube. Retrieved August 11, 2022, from https://www.youtube.com/ (full list of videos [here]([url](https://github.com/matyasbohacek/protecting-world-leaders-against-deep-fakes/blob/main/world-leaders.csv)))
 
-**[3]**
+**[3] The Presidential Office of Ukraine**. (n.d.). _Speeches._ Official Website of the President of Ukraine. Retrieved August 11, 2022, from https://www.president.gov.ua/en/news/speeches 
 
-**[4]**
+**[4] Twitter**. (2022, March 16). Zelenskyy Deep Fake Video. Twitter. Retrieved August 11, 2022, from https://twitter.com/_delanay/status/1504048298520371201 
 
