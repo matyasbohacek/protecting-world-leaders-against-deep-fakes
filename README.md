@@ -2,7 +2,7 @@
 
 created by Matyáš Boháček and Hany Farid
 
-This directory contains three sets of footage with prominent world politicians, as described below. For each set, we provide a CSV file with the respective video links. 
+This directory contains three sets of footage with prominent world politicians, as described below. For each set, we provide a CSV file with the respective video links and information about the identities within.
 
 <br>
 
