@@ -1,1 +1,1 @@
-# protecting-world-leaders-against-deepfakes
+# Protecting world leaders against deep fakes: Data directory
