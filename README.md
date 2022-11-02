@@ -12,7 +12,7 @@ This directory contains three sets of footage with prominent world politicians, 
 
 **Protagonist(s):** Jacinda Ardern, pres. Joe Biden, vice pres. Kamala Harris, Boris Johnson, Wladimir Klitschko, Angela Merkel, Vladimir Putin
 
-**Source(s):** 
+**Source(s):** Deutsche Welle [1], YouTube [2]
 
 ## Real pres. Zelenskyy
 
@@ -22,7 +22,7 @@ This directory contains three sets of footage with prominent world politicians, 
 
 **Protagonist:** pres. Volodomyr Zelenskyy (real)
 
-**Source(s):** 
+**Source(s):** Ukrainian Presidential Office Website [3]
 
 ## In-the-wild deep-fake pres. Zelenskyy
 
@@ -32,9 +32,15 @@ This directory contains three sets of footage with prominent world politicians, 
 
 **Protagonist:** pres. Volodomyr Zelenskyy (deep fake) 
 
-**Source:** 
+**Source:** Twitter [4]
 
 ## References
 
+**[1]**
 
+**[2]**
+
+**[3]**
+
+**[4]**
 
